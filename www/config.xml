@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns="http://www.w3.org/ns/widgets"
         xmlns:gap="http://phonegap.com/ns/1.0"
-        id="mob.app.dev.notifications"
+        id="mob.app.dev.template"
         version="1.0.0">
 
-    <name>Week 10 - Notifications</name>
+    <name>Week * - TEMPLATE</name>
 
     <description>
-        A sample application that demos notifications + dialogs
+        A sample application that ...
     </description>
 
     <author href="worcester.ac.uk" email="c.blythe@worc.ac.uk">
@@ -24,6 +24,8 @@
     <access origin="*" />
 
     <plugin name="cordova-plugin-whitelist" version="1" />
+    <plugin name="cordova-plugin-dialogs"/>
+    <plugin name="cordova-plugin-local-notification" version="0.8" />
 
 
 </widget>
