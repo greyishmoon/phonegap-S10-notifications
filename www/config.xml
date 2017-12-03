@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns="http://www.w3.org/ns/widgets"
         xmlns:gap="http://phonegap.com/ns/1.0"
-        id="mob.app.dev.template"
+        id="mob.app.dev.notifications"
         version="1.0.0">
 
-    <name>Week * - TEMPLATE</name>
+    <name>Week 10 - Notifications</name>
 
     <description>
-        A sample application that ...
+        A sample application that demonstrates notifications and dialogs
     </description>
 
     <author href="worcester.ac.uk" email="c.blythe@worc.ac.uk">
